@@ -21,12 +21,6 @@ This project is an automated multi-level circular car parking system designed to
 ## 🧠 Working Principle
 The system uses sensors and a microcontroller to detect vehicle presence and automatically rotate the circular platform to allocate parking space efficiently.
 
-## 📷 Project Image
-![Project Image](project-image.png)
-
-## 📄 Project Report
-[Download Report](Circular-Car-Parking-Report.pdf)
-
 ## 🎯 Applications
 - Shopping Malls
 - Railway Stations
